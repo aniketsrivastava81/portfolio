@@ -13,7 +13,7 @@ const projects = [
 
     {
         title: "Parth's Photography",
-        desc: "Developed a full-stack mobile-friendly website for Parth Sayta's photography business that is SEO enhanced, scored over 90 on mobile and Desktop on Google PageSpeedInsights.",
+        desc: "Developed a full-stack mobile-friendly website for  Calgary based Parth's photography business that is SEO enhanced, scored over 90 on mobile and Desktop on Google PageSpeedInsights.",
         techstack: "LAMP Stack, Wordpress",
         link: "https://www.parthsaytaphotography.com", 
         git: "#", 
