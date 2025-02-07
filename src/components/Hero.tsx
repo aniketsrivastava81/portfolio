@@ -46,7 +46,7 @@ const Hero = () => {
                     </motion.div>
             
                     <p className="text-center text-x1 max-w-[500px] mx-auto mt-8 text/80">
-                    Full Stack Developer with experience of over 5 years! 
+                    Full Stack Developer, Smart-Contract Developer, also trained in Cyber-Security. 
                     </p>
                         <Image
                         src={profilepic}
